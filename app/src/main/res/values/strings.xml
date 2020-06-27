@@ -1,0 +1,16 @@
+<resources>
+    // Nombre del Tab
+    <string name="app_name">PracticaRadioButton</string>
+    // Entradas de datos
+    <string name="xml_txt_num1">Ingresa el primer número</string>
+    <string name="xml_txt_num2">Ingresa el segundo número</string>
+    // RadioButtons
+    <string name="xml_rb_suma">Sumar</string>
+    <string name="xml_rb_resta">Restar</string>
+    <string name="xml_rb_multi">Multiplicar</string>
+    <string name="xml_rb_divi">Dividir</string>
+    // Botón de Calcular
+    <string name="xml_btn_cal">CALCULAR</string>
+    // Resultado
+    <string name="xml_tv_resul">0</string>
+</resources>
